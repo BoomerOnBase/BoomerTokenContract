@@ -1,6 +1,6 @@
 # BOOMER Token
 
-BOOMER is a community-driven ERC20 token deployed on the Base network, featuring built-in trading limits and automatic liquidity management.
+Boomer is a fusion of a memecoin and an educational vision aimed at onboarding new users to base and increasing the adoption of blockchain technologies in a fun and safe way. Boomer represents a real-life and recognizable meme with endless possibilities for fun and relevant artwork. In parallel to a fun and vibrant memecoin community, we are actively building a portfolio of written and video educational content to provide the fundamental and advanced skills necessary to navigate safely in the memecoin and blockchain space.
 
 ## 🌐 Links
 - **Website:** https://baseboomer.com/
